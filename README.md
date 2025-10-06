@@ -1,2 +1,3 @@
-# sample_repo
-hi hello i'm new to github
+# HEADING 1
+**this text is in bold**
+this is just a plain text
